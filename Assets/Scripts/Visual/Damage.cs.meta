@@ -1,0 +1,30 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+
+public class Damage : MonoBehaviour
+{
+    public Text damageText;
+
+    public void SetOff()
+    {
+        gameObject.SetActive(false);
+    }
+
+protected ObjectPooling Pool;
+
+	public virtual void Create (ObjectPooling pool)
+	{
+		Pool = pool;
+        transform.SetParent(Pool.transform);
+        transform.localScale = Vector3.one;
+        transform.localRotation = Quaternion.Euler(0, 0, 0);
+		gameObject.SetActive(false);
+	}
+
+	public virtual void Push ()
+	{
+		Pool.PushObject(this);
+	}
+}

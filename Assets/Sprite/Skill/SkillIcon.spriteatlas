@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SkillIcon
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 3
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: a33cd76e942834f33b8573cdef48ee40, type: 3}
+    - {fileID: 102900000, guid: c8c7df5fa36324bf69f70ab37de447d5, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5f57ef102707041aaafd835b889211b8, type: 3}
+  - {fileID: 21300000, guid: a8351550fd8764ae6a7e00bdfeb7d2ea, type: 3}
+  - {fileID: 21300000, guid: 3f763da00a45948b5bc082785b1eaa53, type: 3}
+  - {fileID: 21300000, guid: cb128881f813e484fa8d8ee31f7cfe75, type: 3}
+  - {fileID: 21300000, guid: 14c69e81874814b4d9e8c8cec1fd35e0, type: 3}
+  - {fileID: 21300000, guid: 2a3975f18454947e2a130d4f54d9f7af, type: 3}
+  - {fileID: 21300000, guid: b17c1e320f7564968b39f4d1a3cbdfe7, type: 3}
+  - {fileID: 21300000, guid: 06630d135cd3c4b16b6b25acaefacaa2, type: 3}
+  - {fileID: 21300000, guid: 1569e2730ecd0a545991ae60698f83c2, type: 3}
+  - {fileID: 21300000, guid: 6e7e58a3e9138485fb4777ca2b2f21dd, type: 3}
+  - {fileID: 21300000, guid: a06a5d74a37434c439530ebeade6be54, type: 3}
+  - {fileID: 21300000, guid: 991086f4d9b92b9478ed65e8655e7dba, type: 3}
+  - {fileID: 21300000, guid: cb4c1155025e149668ee5d13af6d8da7, type: 3}
+  - {fileID: 21300000, guid: b6a21285d376d01458d6d14806add091, type: 3}
+  - {fileID: 21300000, guid: 6c2ba38537646114f89a796b345369f6, type: 3}
+  - {fileID: 21300000, guid: 48e124856a9ce4fc288558458671713e, type: 3}
+  - {fileID: 21300000, guid: 4174bde50425d410491a5da3d35049ae, type: 3}
+  - {fileID: 21300000, guid: e840f6f5f0ec242b59a446033be003b7, type: 3}
+  - {fileID: 21300000, guid: 4700ddf57d9ac46daa76b3c7f7742a07, type: 3}
+  - {fileID: 21300000, guid: 32604c36cfc67463097277e8ef3038df, type: 3}
+  - {fileID: 21300000, guid: ab3e2ba61aee9497b94298f58ca7fc3c, type: 3}
+  - {fileID: 21300000, guid: c2d2892702f444180a361e1f6c07176b, type: 3}
+  - {fileID: 21300000, guid: 1737b367545d34f23ba224b3be8f8c85, type: 3}
+  - {fileID: 21300000, guid: 1bda21c7c936647e6be8e593f6d8baac, type: 3}
+  - {fileID: 21300000, guid: 3413124816c8c4ad8a9fc9e9e8206af9, type: 3}
+  - {fileID: 21300000, guid: 8fc3a6c8e09314fa7bca81a4d5665955, type: 3}
+  - {fileID: 21300000, guid: 065c98d8984cb4daab43507ee87def26, type: 3}
+  - {fileID: 21300000, guid: 538e4679e3fce488f8c2137eae8b2000, type: 3}
+  - {fileID: 21300000, guid: 83f27b2b6a6074484b76674a6bb56f19, type: 3}
+  - {fileID: 21300000, guid: 5e1f956b21b1e40128b824b84eff4c37, type: 3}
+  - {fileID: 21300000, guid: 0f4c559bcde824de6a093732358d50eb, type: 3}
+  - {fileID: 21300000, guid: 4bc380eb4412b423a8e807c9943421fb, type: 3}
+  - {fileID: 21300000, guid: 329ca17c848bc463c90727b370c35bfa, type: 3}
+  - {fileID: 21300000, guid: 07513fac437104f10854c52dd45c78f6, type: 3}
+  - {fileID: 21300000, guid: 3234c6bc50afd4e9298ced99cd2c8801, type: 3}
+  - {fileID: 21300000, guid: 3a08644df6aa347a8a9265fb6e2b24eb, type: 3}
+  - {fileID: 21300000, guid: a1eba5fe075e047fab0e636c644a33a3, type: 3}
+  - {fileID: 21300000, guid: 00a6e7fe669ce42d6b516fdced7ab55e, type: 3}
+  - {fileID: 21300000, guid: 1e5dcc2f720564817a786d05e5cf3d91, type: 3}
+  - {fileID: 21300000, guid: fb8c21ff7792448f386b9f5598f21917, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 15
+  - 12
+  - 38
+  - 26
+  - Sword
+  - 21
+  - 27
+  - 20
+  - Helmet
+  - 31
+  - 28
+  - Ring
+  - 37
+  - Armor
+  - Shield
+  - 33
+  - Cape
+  - 22
+  - 15
+  - 18
+  - 32
+  - 39
+  - 14
+  - 30
+  - gray (2)
+  - 34
+  - 29
+  - 24
+  - 11
+  - 36
+  - 19
+  - 35
+  - 25
+  - 17
+  - 10
+  - 23
+  - 13
+  - WingIcon
+  - HelperIcon
+  - 16
+  m_Tag: SkillIcon
+  m_IsVariant: 0

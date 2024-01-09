@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Background
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 8192
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 3
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: fec7dd2ca9e87400fb0b9f487c3bddea, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 90c3e8c06c8b945cf96c52cd0626e001, type: 3}
+  - {fileID: 21300000, guid: 6944f1f04c06944088c9a1ebafec29f5, type: 3}
+  - {fileID: 21300000, guid: 6b2a69811eff54d40841c175a093847f, type: 3}
+  - {fileID: 21300000, guid: 51bf9591b36ec46e197d6fc47a671c35, type: 3}
+  - {fileID: 21300000, guid: 23a1479224c27487faee22ff55decc08, type: 3}
+  - {fileID: 21300000, guid: 44410353cc1b84d809c69c6d57985156, type: 3}
+  - {fileID: 21300000, guid: e050ee14005254dcba6b3b5749c3eae4, type: 3}
+  - {fileID: 21300000, guid: e06fff84d83fc40018ebf85a052f76fb, type: 3}
+  - {fileID: 21300000, guid: e4898fb4fc1174e9aa6a9ec1fb490723, type: 3}
+  - {fileID: 21300000, guid: 1b0393f4b37ea48c282ccd256f0aaa51, type: 3}
+  - {fileID: 21300000, guid: 1b05cbb5fe9454556b1314c511b1d275, type: 3}
+  - {fileID: 21300000, guid: 4dbaa1d514afe46c29592c3af331df36, type: 3}
+  - {fileID: 21300000, guid: 59f482064aa724e9bbf657916fe04ebb, type: 3}
+  - {fileID: 21300000, guid: e3aeb456d5b4f49dcb02bd210965d102, type: 3}
+  - {fileID: 21300000, guid: cf7c2ab6a81bf447f8810f15ad742079, type: 3}
+  - {fileID: 21300000, guid: 53c8c8773c1d24e25b2c6429d12dbc5d, type: 3}
+  - {fileID: 21300000, guid: 780d7fe7938244a85a4ef0345ee1c327, type: 3}
+  - {fileID: 21300000, guid: 41eee0191f64e429990148750e1330a3, type: 3}
+  - {fileID: 21300000, guid: 67b921c9992114fb59f1e09b17d99cbe, type: 3}
+  - {fileID: 21300000, guid: 944c630af0293442a823f44c6b5bf055, type: 3}
+  - {fileID: 21300000, guid: 4a02142aa2d8f4d75b1aee7851020fac, type: 3}
+  - {fileID: 21300000, guid: e47d2edf494b140b9bf959a828f4c0d2, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - God
+  - 11
+  - 08
+  - 12
+  - 10
+  - 06
+  - cave_red_rock_cavern
+  - castle2_outside_distant_2048x1536_1
+  - castle2_outside_distant_2048x1536_4
+  - castle2_outside_distant_2048x1536_3
+  - 07
+  - 04
+  - 03
+  - Hell
+  - 13
+  - castle2_outside_distant_2048x1536_2
+  - 05
+  - 02
+  - 01
+  - 09
+  - 00
+  - castle2_outside_distant_2048x1536
+  m_Tag: Background
+  m_IsVariant: 0

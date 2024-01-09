@@ -1,0 +1,415 @@
+fileFormatVersion: 2
+guid: d8c50b4856d20497ea2ed243f4953ef3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5628386014014812754
+    second: wing00_0
+  - first:
+      213: -842957873690696028
+    second: wing00_1
+  - first:
+      213: -9053356225403854378
+    second: wing00_2
+  - first:
+      213: -7625264716551023293
+    second: wing00_3
+  - first:
+      213: 3340238400316475148
+    second: wing00_4
+  - first:
+      213: 4326863465558388814
+    second: wing00_5
+  - first:
+      213: 6561275131084816007
+    second: wing00_6
+  - first:
+      213: 7723019039325505724
+    second: wing00_7
+  - first:
+      213: -6793701039198652218
+    second: wing00_8
+  - first:
+      213: -8194196447665125054
+    second: wing00_9
+  - first:
+      213: 6587860181579272746
+    second: wing00_10
+  - first:
+      213: 3198706243062305740
+    second: wing00_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wing00_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 146
+        width: 77
+        height: 82
+      alignment: 9
+      pivot: {x: 0.85714275, y: 0.12912105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6321def433bf04181a2994cae47f8233
+      internalID: -5628386014014812754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing00_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 165
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.9411765, y: 0.064732075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfc152a116ce48dfa9379ef576bfed8
+      internalID: -842957873690696028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing00_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 167
+        width: 49
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5082672, y: 0.47685212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453e2daf5f5e74f79a463d0100125cfc
+      internalID: -9053356225403854378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing00_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 146
+        width: 87
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1c63ba7e54b44458366ef995fe6d40
+      internalID: -7625264716551023293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing00_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 89
+        width: 74
+        height: 68
+      alignment: 9
+      pivot: {x: 0.95148253, y: 0.11466157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afe6d4b919df47d59364c7238ef8143
+      internalID: 3340238400316475148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing00_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 86
+        width: 77
+        height: 87
+      alignment: 9
+      pivot: {x: 0.86585385, y: 0.09677419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb31ef8bfca14804941492536913b07
+      internalID: 4326863465558388814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing00_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 90
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14382d149c7664ade8d55cf8d1b7ac9e
+      internalID: 6561275131084816007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing00_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 78
+        width: 76
+        height: 76
+      alignment: 9
+      pivot: {x: 0.9229327, y: 0.2410715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83168f24fe03e44889276fed986eed8a
+      internalID: 7723019039325505724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing00_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 20
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a3b6b05d7c54e4598e41f88a78ded3
+      internalID: -6793701039198652218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing00_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 18
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ffccd3ae1894b4fb27cd774c451700
+      internalID: -8194196447665125054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing00_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 17
+        width: 74
+        height: 82
+      alignment: 9
+      pivot: {x: 0.7819551, y: 0.10963449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdfee201753b41999dcd8e359b48928
+      internalID: 6587860181579272746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing00_11
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 14
+        width: 88
+        height: 76
+      alignment: 9
+      pivot: {x: 0.8764479, y: 0.13345894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565807924919d414f9b8d56494cff8f4
+      internalID: 3198706243062305740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
